@@ -27,12 +27,11 @@ h3 {
 }
 
 
-img {
+.profile-img {
     border-radius: 50%;
     display: block;
     margin-bottom: 15px;
 }
-
 
 p {
     font-size: 17px;
